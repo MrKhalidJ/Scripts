@@ -1,2 +1,2 @@
 # Scripts
-my scripting playground
+my script files repository
